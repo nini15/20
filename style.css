@@ -1,0 +1,99 @@
+body{
+  background-color: white;
+  position: relative;
+}
+*{box-sizing: border-box;}
+@font-face {
+  font-family: "noto";
+  src: url(noto.ttf);
+}
+@font-face {
+  font-family: "mulish";
+  src: url(mulish.ttf);
+}
+@font-face {
+  font-family: "oxygen";
+  src: url(oxygen.ttf);
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+
+}
+nav{
+   display: flex;
+   margin-top: 50px;
+   }
+ .img{
+  width: 61px;
+  height: 61px;
+  margin-left: 50px;
+  margin-top: 30px;
+  }
+   .button{
+    width: 67px;
+    height: 30px;
+    font-family: 'mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+    margin-right: 70px;
+    text-decoration: none;
+    
+    }
+     .h3{
+      width: 603px;
+      height: 126px;
+      font-family: 'noto';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 30px;
+      line-height: 63px;
+      text-transform: capitalize;
+      color: #000000;
+
+     }
+      .container2{
+       margin-left: 50px;
+      }
+        .p{
+          width: 603px;
+          height: 153px;
+          font-family: 'noto';
+          font-style: normal;
+          font-weight: 100;
+          font-size: 24px;
+          line-height: 51px;
+          text-transform: capitalize;
+          color: #000000;
+          }
+           .button1{
+            width: 206px;
+            height: 75px;
+            background: rgba(85, 85, 255, 0.81);
+            font-family: 'oxygen';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 36px;
+            line-height: 45px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+            border: none;
+            } 
+             .container3{
+              display: flex;
+             }
+              .img1{
+                width: 492.58px;
+                height: 328px;
+                left: 827px;
+                top: 286px;
+                margin-left: 200px;
+                margin-top: 70px;
+                }
+      
+ 
+             
+          
